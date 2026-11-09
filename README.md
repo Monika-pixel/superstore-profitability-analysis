@@ -62,15 +62,35 @@ The simulation estimated an increase in profit from approximately $3,018 to $30,
 
 ## 7. Visualizations
 
-The `charts/` folder contains visualizations covering:
+### 7.1 Profit by Category
+![Profit by Category](charts/profit_by_category.png)
 
-- Sales and profit by category.
-- Sales and profit by customer segment.
-- State-level sales and profitability.
-- Furniture sub-category profitability.
-- Furniture discount-group analysis.
-- Discount and profit correlation.
-- Actual versus simulated Furniture profit.
+### 7.2 Sales by Category
+![Sales by Category](charts/sales_by_category.png)
+
+### 7.3 Profit by Customer Segment
+![Profit by Segment](charts/profit_by_segment.png)
+
+### 7.4 Sales by Customer Segment
+![Sales by Segment](charts/sales_by_segment.png)
+
+### 7.5 Profit by State
+![Profit by State](charts/profit_by_state.png)
+
+### 7.6 Top 10 States by Profit
+![Top 10 States by Profit](charts/top_10_profit_by_state.png)
+
+### 7.7 Furniture Profit by Sub-Category
+![Furniture Profit by Sub-Category](charts/profit_bu_subcat_furniture.png)
+
+### 7.8 Furniture Profit Margin by Discount Group
+![Furniture Profit Margin by Discount Group](charts/furniture_discount_group.png)
+
+### 7.9 Furniture Discount and Profit Correlation
+![Furniture Correlation](charts/furniture_correlation.png)
+
+### 7.10 Actual vs. Simulated Furniture Profit
+![Profit Comparison](charts/profit_comparison.png)
 
 ## 8. Project Structure
 
